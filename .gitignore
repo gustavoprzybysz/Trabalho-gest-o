@@ -1,0 +1,4 @@
+.env
+secret_token.txt
+node_modules/
+dist/
